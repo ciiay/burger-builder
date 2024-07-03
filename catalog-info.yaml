@@ -1,0 +1,12 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: burger-builder
+  annotations:
+    github.com/project-slug: ciiay/burger-builder
+spec:
+  type: other
+  lifecycle: unknown
+  owner: ciiay
+---
